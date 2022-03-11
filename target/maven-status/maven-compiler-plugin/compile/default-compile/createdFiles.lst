@@ -1,0 +1,5 @@
+com\vinu\model\Books.class
+com\vinu\dao\BooksRepository.class
+com\vinu\service\BooksService.class
+com\vinu\SpringbootrestfullApplication.class
+com\vinu\controller\BooksController.class
